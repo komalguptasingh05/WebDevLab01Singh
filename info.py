@@ -38,7 +38,7 @@ experience_data = {
             "- Performed structured analysis of publicly traded companies, including financial statement review, 10-K analysis, and introductory discounted cash flow (DCF) valuation",
             "- Participated in weekly mentorship sessions applying investment frameworks to evaluate companies and articulate data-driven investment rationales"
         ],
-        "Images/cleaner.jpg"
+        "cleaner.jpg"
     ),
 
     "Vertical Integrated Project: Africa — Serve, Learn, Sustain (Project & Impact Analyst)": (
@@ -47,7 +47,7 @@ experience_data = {
             "- Evaluated flooding costs versus cost savings from recycled plastic materials, demonstrating circular-economy benefits and local economic value creation",
             "- Developed an eco-savings calculator comparing conventional materials with repurposed plastics to quantify construction savings and flood-damage reduction"
         ],
-        "Images/jelly.jpg"
+        "jelly.jpg"
     ),
 
     "Crisis Text Hotline (Crisis Counselor)": (
@@ -56,7 +56,7 @@ experience_data = {
             "- Delivered 150+ hours of real-time crisis support, guiding individuals toward actionable coping strategies and recovery plans",
             "- Maintained sound judgment and clear communication in high-pressure, ambiguous situations while prioritizing escalation pathways"
         ],
-       "Images/jelly.jpg"
+       "jelly.jpg"
     )
 }
 
