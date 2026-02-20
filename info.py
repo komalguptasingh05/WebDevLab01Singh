@@ -2,7 +2,7 @@
 #This File will contain the information to be displayed in your portfolio
 
 #CHANGE BELOW
-profile_picture ="Images/linkedInPhotoKomalSingh.jpeg"
+profile_picture = "linkedInPhotoKomalSingh.jpeg"
 about_me = "I'm Komal Singh!"
 
 
